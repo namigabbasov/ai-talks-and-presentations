@@ -1,4 +1,4 @@
-# Talks
+# AI Talks and Presentations
 
 This repository includes details, summaries, and links for each of my talks on artificial intelligence, data science, digital humanigties, and computational social science. 
 
